@@ -3,7 +3,7 @@ main:
   - title: "建筑设计"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "技术与效率"
-    url:
+    url:  /_posts/技术与效率/
   - title: "历史与人文"
     url:
   - title: "随笔"
