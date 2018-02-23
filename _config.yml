@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "崔磊"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "我是[崔磊]，建筑师、前端工程师。"
   location         : "临沂➡️青岛➡️深圳"
   email            : "cuilei5205189@icloud.com"
