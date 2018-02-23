@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "建筑设计"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "所有文章"
-    url:  /year-archive/
+    url: /year-archive/
   - title: "Archtips"
     url:
   - title: "联系"
