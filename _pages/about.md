@@ -1,9 +1,8 @@
 ---
 layout: archive
 permalink: /about/
-title: "Posts by Year"
-author_profile: true
+title: "关于我"
+author_profile: false
 ---
 
-
-my name is cuilei
+我是崔磊，建筑师、前端工程师。
