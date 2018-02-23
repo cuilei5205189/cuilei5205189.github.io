@@ -5,7 +5,7 @@ main:
   - title: "Archtips"
     url:
   - title: "联系"
-    url:
+    url: /about/
 
   -
   # - title: "About"
