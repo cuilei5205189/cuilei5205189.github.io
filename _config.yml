@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "青岛➡️深圳"
-title                    : "崔磊的博客"
+title                    : "崔磊的学习日志"
 title_separator          : "-"
 name                     : "崔磊"
-description              : "我是[崔磊]，建筑师、前端工程师。"
+description              : "崔磊的学习日志"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,11 +90,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "崔磊"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "我是[崔磊]，建筑师、前端工程师。"
+  location         : "青岛➡️深圳"
+  email            : "cuilei5205189@icloud.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "Trillion5205189"
   vine             :
   weibo            :
   xing             :
