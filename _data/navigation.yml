@@ -1,7 +1,21 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "建筑设计"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "技术与效率"
+    url:
+  - title: "历史与人文"
+    url:
+  - title: "随笔"
+    url:
+  - title: "Archtips"
+    url:
+  - title: "Archtips"
+    url:
+  - title: "联系"
+    url:
+
+  -
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
