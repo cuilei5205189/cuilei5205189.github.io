@@ -2,8 +2,8 @@
 main:
   - title: "所有文章"
     url: /year-archive/
-  - title: "Archtips"
-    url:
+  - title: "技术与效率"
+    url: /技术与效率
   - title: "关于我"
     url: /about/
 
