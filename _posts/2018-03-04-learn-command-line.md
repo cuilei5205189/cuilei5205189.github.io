@@ -3,7 +3,7 @@ title: "常用command line 归档"
 categories:
   - 技术与效率
 tags:
-  - command-line
+  - 编程学习
 ---
 
 
@@ -41,4 +41,11 @@ tags:
 
 
 
-注意： 你应该避免在目录名和文件名中使用空格（而是使用下划线如 cloven_hoofed_animals）。如果不可避免 —— 也许遇到以前创建的文件或目录名称中有空格，可以在空格之前插入一个转义字符（\），告诉 shell 如何正确得解释文件名中的空格，比如 mkdir cloven\ hoofed\ animals。
+注意： 
+你应该避免在目录名和文件名中使用空格（而是使用下划线如 cloven_hoofed_animals）。
+如果不可避免 —— 也许遇到以前创建的文件或目录名称中有空格，可以在空格之前插入一个转义字符（\），
+告诉shell 如何正确得解释文件名中的空格，比如 mkdir cloven\ hoofed\ animals。
+
+
+- [ ] tldr如何使用
+- [ ] zsh如何使用，有什么优点

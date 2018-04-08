@@ -2,8 +2,8 @@
 main:
   - title: "所有文章"
     url: /year-archive/
-  - title: "技术与效率"
-    url: /tags/#command-line
+  - title: "编程学习"
+    url: /tags/#编程学习
   - title: "关于我"
     url: /about/
 
