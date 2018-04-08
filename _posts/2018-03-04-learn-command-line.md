@@ -6,7 +6,7 @@ tags:
   - command-line
 ---
 
-
+```
 	• man
 	• ls: 列出目录内容
 		• ls -l > fileList.txt 利用命令行输出文件名列表的方法
@@ -34,11 +34,11 @@ tags:
 注意： 你应该避免在目录名和文件名中使用空格（而是使用下划线如 cloven_hoofed_animals）。如果不可避免 —— 也许遇到以前创建的文件或目录名称中有空格，可以在空格之前插入一个转义字符（\），告诉 shell 如何正确得解释文件名中的空格，比如 mkdir cloven\ hoofed\ animals。
 
 ```
-lsof -i :1086 检查端口占用
-tldr    简洁的命令介绍
-curl cip.cc
-curl ip.cn
-vimtutor 调出vim教程
+- lsof -i :1086 检查端口占用
+- tldr    简洁的命令介绍
+- curl cip.cc
+- curl ip.cn
+- vimtutor 调出vim教程
 ```
 
 
