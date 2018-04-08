@@ -3,8 +3,10 @@ title: "常用command line 归档"
 categories:
   - 技术与效率
 tags:
-  - 命令行
+  - command-line
 ---
+
+
 	• man
 	• ls: 列出目录内容
 		• ls -l > fileList.txt 利用命令行输出文件名列表的方法
