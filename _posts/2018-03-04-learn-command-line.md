@@ -3,7 +3,7 @@ title: "常用command line 归档"
 categories:
   - 技术与效率
 tags:
-  - command_line
+  - 命令行
 ---
 	• man
 	• ls: 列出目录内容
